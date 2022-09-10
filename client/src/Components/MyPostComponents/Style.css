@@ -1,0 +1,30 @@
+.button4 {
+  height: 35px;
+  border-radius: 5px;
+  background-color: white;
+  border: 1px solid orange;
+  cursor: pointer;
+  margin-top: 5px;
+}
+
+.button4:hover {
+  background-color: orange;
+  color: #FFFFFF;
+  transition: 1s;
+}
+
+.button5 {
+  margin-left: 10px;
+  height: 35px;
+  border-radius: 5px;
+  background-color: white;
+  border: 1px solid red;
+  cursor: pointer;
+  margin-top: 5px;
+}
+
+.button5:hover {
+  background-color: red;
+  color: #FFFFFF;
+  transition: 1s;
+}/*# sourceMappingURL=Style.css.map */

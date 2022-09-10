@@ -1,0 +1,31 @@
+.post__container {
+  max-width: 550px;
+  margin-top: 10px;
+}
+
+.image1 {
+  border-radius: 10px;
+  width: 550px;
+  display: flex;
+  justify-content: center;
+  margin: 0px auto;
+  cursor: pointer;
+}
+
+.block__user {
+  display: flex;
+  flex-direction: row;
+}
+
+.block__span {
+  display: flex;
+  flex-direction: column;
+}
+
+.description {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin-top: 0px;
+}/*# sourceMappingURL=Style.css.map */

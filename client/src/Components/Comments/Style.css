@@ -1,0 +1,35 @@
+.input2 {
+  height: 30px;
+  width: 300px;
+  border-radius: 10px;
+  border: 1px solid gray;
+  font-size: 20px;
+}
+
+.button3 {
+  margin-top: 0px;
+  margin-left: 10px;
+  height: 35px;
+  border-radius: 5px;
+  background-color: white;
+  border: 1px solid green;
+  cursor: pointer;
+  margin-top: 5px;
+}
+
+.button3:hover {
+  background-color: green;
+  color: #FFFFFF;
+  transition: 1s;
+}
+
+.li1 {
+  margin-bottom: 10px;
+}
+
+.block__comments {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+}/*# sourceMappingURL=Style.css.map */
